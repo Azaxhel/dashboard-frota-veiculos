@@ -47,7 +47,7 @@ Você pode visualizar os principais indicadores de uso, consumo e manutenção d
 
 ---
 
-## 🚀 Como executar o projeto localmente
+## Como executar o projeto localmente
 
 Siga os passos abaixo para rodar o dashboard na sua máquina:
 
@@ -62,8 +62,7 @@ pip install -r requirements.txt
 # 3. Execute a aplicação
 streamlit run app.py
 
-
-📌 Autor
+Autor
 Desenvolvido por Enrique Linhares
 Projeto pessoal com foco em análise de dados e visualização interativa.
 LinkedIn https://www.linkedin.com/in/enrique-linhares-683728330/
